@@ -1,3 +1,5 @@
+//code for curse-o-meter Loganfranken.com. Custom function below in mouseover is original
+
 $(function() {
     
     var $speedometer = $('#speedometer');
